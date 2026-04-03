@@ -3,3 +3,5 @@ J'ai choisi d'utiliser 3 design pattern pour l'exercice :
 Le premier est le TemplateMethod pour nous permettre de suivre un processus à chaque nouvelle commande
 Le deuxieme est l'observer pour pouvoir envoyer des notifications aux partis concernés à chaque fois qu'une étape du processus le nécessite
 Le troisieme est le Facotry, pour me permettre d'ajouter simplement autant de canaux que je le souhaite et me permettre d'affecter dynamiquement et simplement un canal à un évenement
+
+Concernant l'indentation dans les fichiers. A chaque fois que je sauvegarde il se formate de cette facon, je n'arrive pas le retirer °°
